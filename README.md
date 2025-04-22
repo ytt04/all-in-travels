@@ -43,26 +43,22 @@ Este proyecto utiliza las siguientes tecnologías:
 
 ### 🌍 Versión Web
 
-![Home Page]
-<img src="./screenshots/home-pc.png" width="300">
+<img src="./screenshots/home-pc.png" width="500">
 
 
 ### 📱 Versión Móvil
 
-![Home Movil]
 <img src="./screenshots/home-responsive.png" width="300">
 
 
 ### 📌 Formulario de Contacto
 
-![form Page]
-<img src="./screenshots/form-pc.png" width="300">
+<img src="./screenshots/form-pc.png" width="500">
 
 
 ### 📰 Blogs
 
-![blog Page]
-<img src="./screenshots/blog-pc.png" width="300">
+<img src="./screenshots/blog-pc.png" width="500">
 
 
 
